@@ -19,8 +19,11 @@ Ladder Quest is a digital take on the classic Snake and Ladder board game, imple
 4. If you land on a **snake**, you slide down!  
 5. First player to reach the final tile **wins**!  
 
-## 🎮 Run the Game  
-Clone the repository and open the `index.html` file in a browser:  
+## 🌐 Play the Game Online  
+➡ [Click here to play Ladder Quest!](https://kalaiarasan-t.github.io/ladder-quest/)  
+
+## 🛠️ Run Locally  
+If you prefer to run the game locally, clone the repository and open `index.html` in your browser:  
 ```sh
 git clone https://github.com/kalaiarasan-t/ladder-quest.git
 cd ladder-quest
