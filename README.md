@@ -22,6 +22,6 @@ Ladder Quest is a digital take on the classic Snake and Ladder board game, imple
 ## 🎮 Run the Game  
 Clone the repository and open the `index.html` file in a browser:  
 ```sh
-git clone https://github.com/your-username/ladder-quest.git
+git clone https://github.com/kalaiarasan-t/ladder-quest.git
 cd ladder-quest
 open index.html
